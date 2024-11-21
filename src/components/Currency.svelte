@@ -8,6 +8,6 @@
 	currFormat();
 </script>
 
-<p class="text-red text-[1.12rem] font-semibold">
+<p>
 	{price}
 </p>
